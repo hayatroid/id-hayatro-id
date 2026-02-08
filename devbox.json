@@ -3,7 +3,9 @@
   "packages": [
     "elixir@latest",
     "inotify-tools@latest",
-    "flyctl@latest"
+    "flyctl@latest",
+    "postgresql@latest",
+    "git@latest"
   ],
   "shell": {
     "init_hook": [
